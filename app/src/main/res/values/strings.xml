@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mainSpent">$1,460</string>
+    <string name="mainEarned">$2,730</string>
+    <string name="mainDescription">You spent $2,732 on dining out this month. Let’s try to make it lower</string>
+    <string name="availableBalance">$7,425</string>
+    <string name="uString"><u>Tell me more</u></string>
+    <string name="yourBalance">Your balance is $2,639</string>
+    <string name="byThisTime">By this time last month, you spent\n slight higher <b>($2,719)</b></string>
+    <string name="thisMonth">$2,730</string>
+    <string name="lastMonth">$1,460</string>
+    <string name="topTransactionCategory1">Lunch &amp; Dinner</string>
+    <string name="topTransactionPrice1">$200</string>
+    <string name="topTransactionDate1">09.11.2003</string>
+    <string name="topTransactionCategory2">House Rent</string>
+    <string name="topTransactionPrice2">$180</string>
+    <string name="topTransactionDate2">10.11.2003</string>
+    <string name="topTransactionCategory3">Lunch &amp; Dinner</string>
+    <string name="topTransactionPrice3">$125</string>
+    <string name="topTransactionDate3">10.11.2003</string>
+    <string name="lunchDinner">Lunch &amp; Dinner</string>
+</resources>
